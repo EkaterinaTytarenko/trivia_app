@@ -1,0 +1,8 @@
+com\practise\trivia\ApplicationConfig.class
+com\practise\trivia\TriviaApplication.class
+com\practise\trivia\entities\Question.class
+com\practise\trivia\dtos\QuestionDTO.class
+com\practise\trivia\IndexController.class
+com\practise\trivia\services\CategoriesService.class
+com\practise\trivia\repos\QuestionsRepo.class
+com\practise\trivia\services\QuestionService.class
